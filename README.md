@@ -1,6 +1,6 @@
 # LightWallet
 
-A minimal ethereum javascript wallet.
+A minimal ethereum javascript wallet...
 
 ## About
 
